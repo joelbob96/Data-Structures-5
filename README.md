@@ -45,7 +45,7 @@ std::string filename(str);
 
 Next, a function is called that conducts a bubble sort on the array, sorting it by the number of occurances of each character. Once the array is soted a function is called to print the array to the console and to a file called **output.txt**. A function is then called, which stores the values in the array into a binary tree with **in order** traversal. The binary tree is then printed to **output.txt** and the console.
 
-#### An example of the program running with the input from * *Harry Potter and the Portrait of what looked like a Large Pile of Ash* * 
+#### An example of the program running with the input from *Harry Potter and the Portrait of what looked like a Large Pile of Ash* 
 ![](images/DS5,1.png)
 
 ![](images/DS5,2.png)
